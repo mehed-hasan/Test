@@ -1,0 +1,1 @@
+<form action="/test" method="post"><input type="submit" value=""></form>
